@@ -14,4 +14,4 @@ A sleek, modern, and fully responsive calculator built using HTML, CSS, and Java
 - JavaScript (ES6+)
 
 ## Screenshots
-*(Add a screenshot here of your working calculator!)*
+![Calculator Screenshot](calculator.png)
